@@ -4,7 +4,26 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title>url</title>
+      <link href="/2021/12/31/url-bi-ji/"/>
+      <url>/2021/12/31/url-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<p>url：统一资源定位器(Uniform Resource Locator)</p><p>就像每家每户都有一个门牌地址一样，每个网页也都有一个Internet地址。.当你在浏览器的地址框中输入一个URL或是单击一个超级链接时，URL就确定了要浏览的地址。. 浏览器通过超文本传输协议 (HTTP)，将Web服务器上站点的网页代码提取出来，并翻译成漂亮的网页。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> url </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo 常用命令</title>
       <link href="/2021/12/30/hexo-chang-yong-ming-ling/"/>
       <url>/2021/12/30/hexo-chang-yong-ming-ling/</url>
       
