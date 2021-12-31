@@ -4,13 +4,21 @@
   
     
     <entry>
-      <title></title>
+      <title>Hello World</title>
       <link href="/2021/12/30/hexo-chang-yong-ming-ling/"/>
       <url>/2021/12/30/hexo-chang-yong-ming-ling/</url>
       
         <content type="html"><![CDATA[<h2 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h2><p>hexo new “postName” #新建文章<br>hexo new page “pageName” #新建页面<br>hexo generate #生成静态页面至public目录<br>hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）<br>hexo deploy #部署到GitHub<br>hexo help  # 查看帮助<br>hexo version  #查看Hexo的版本</p><h3 id="缩写"><a href="#缩写" class="headerlink" title="缩写"></a>缩写</h3><p>hexo n == hexo new<br>hexo g == hexo generate<br>hexo s == hexo server<br>hexo d == hexo deploy</p><h3 id="组合命令"><a href="#组合命令" class="headerlink" title="组合命令"></a>组合命令</h3><p>hexo s -g #生成并本地预览<br>hexo d -g #生成并上传</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -21,13 +29,15 @@
       <link href="/2021/12/30/photo/"/>
       <url>/2021/12/30/photo/</url>
       
-        <content type="html"><![CDATA[<p><img src="/photo/xhz.webp" alt="小猴子"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/photo/xhz-16409319288571.webp" alt="小猴子"></p>]]></content>
       
       
       
         <tags>
             
-            <tag> -animal -cute </tag>
+            <tag> animal </tag>
+            
+            <tag> cute </tag>
             
         </tags>
       
